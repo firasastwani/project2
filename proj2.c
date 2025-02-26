@@ -19,13 +19,8 @@ int main(void)
     printf("Enter a list of grades below where each grade is separated by a newline character.\n");
     printf("After the last grade is entered, enter a negative value to end the list.\n");
 
-    while (scanf("%lf", &grade) == 1)
+    while (scanf("%lf", &grade) == 1 && grade >= 0)
     {
-        if (grade < 0)
-        {
-            break;
-        }
-
         // First grade: allocate initial 40 bytes
         if (count == 0)
         {
