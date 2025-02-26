@@ -1,216 +1,216 @@
 Enter a list of grades below where each grade is separated by a newline character.
 After the last grade is entered, enter a negative value to end the list.
-Allocated 40 bytes to the heap at 0x11ee05f80.
-Stored 35.041300 in the heap at 0x11ee05f80.
-Stored 91.850000 in the heap at 0x11ee05f88.
-Stored 4.069500 in the heap at 0x11ee05f90.
-Stored 88.506400 in the heap at 0x11ee05f98.
-Stored 65.950100 in the heap at 0x11ee05fa0.
-Stored 5 grades (40 bytes) to the heap at 0x11ee05f80.
-Heap at 0x11ee05f80 is full.
-Allocated 80 bytes to the heap at 0x11ee05c60.
-Copied 5 grades from 0x11ee05f80 to 0x11ee05c60.
-Freed 40 bytes from the heap at 0x11ee05f80.
-Stored 37.000900 in the heap at 0x11ee05c88.
-Stored 80.362100 in the heap at 0x11ee05c90.
-Stored 67.268500 in the heap at 0x11ee05c98.
-Stored 11.913700 in the heap at 0x11ee05ca0.
-Stored 71.582000 in the heap at 0x11ee05ca8.
-Stored 10 grades (80 bytes) to the heap at 0x11ee05c60.
-Heap at 0x11ee05c60 is full.
-Allocated 120 bytes to the heap at 0x11ee05cb0.
-Copied 10 grades from 0x11ee05c60 to 0x11ee05cb0.
-Freed 80 bytes from the heap at 0x11ee05c60.
-Stored 20.350300 in the heap at 0x11ee05d00.
-Stored 1.649700 in the heap at 0x11ee05d08.
-Stored 18.547600 in the heap at 0x11ee05d10.
-Stored 93.248400 in the heap at 0x11ee05d18.
-Stored 87.471100 in the heap at 0x11ee05d20.
-Stored 15 grades (120 bytes) to the heap at 0x11ee05cb0.
-Heap at 0x11ee05cb0 is full.
-Allocated 160 bytes to the heap at 0x11ee061d0.
-Copied 15 grades from 0x11ee05cb0 to 0x11ee061d0.
-Freed 120 bytes from the heap at 0x11ee05cb0.
-Stored 3.170600 in the heap at 0x11ee06248.
-Stored 89.174200 in the heap at 0x11ee06250.
-Stored 96.957500 in the heap at 0x11ee06258.
-Stored 15.601700 in the heap at 0x11ee06260.
-Stored 63.192700 in the heap at 0x11ee06268.
-Stored 20 grades (160 bytes) to the heap at 0x11ee061d0.
-Heap at 0x11ee061d0 is full.
-Allocated 200 bytes to the heap at 0x11ee06270.
-Copied 20 grades from 0x11ee061d0 to 0x11ee06270.
-Freed 160 bytes from the heap at 0x11ee061d0.
-Stored 11.343800 in the heap at 0x11ee06310.
-Stored 88.117600 in the heap at 0x11ee06318.
-Stored 89.984800 in the heap at 0x11ee06320.
-Stored 7.447200 in the heap at 0x11ee06328.
-Stored 9.117600 in the heap at 0x11ee06330.
-Stored 25 grades (200 bytes) to the heap at 0x11ee06270.
-Heap at 0x11ee06270 is full.
-Allocated 240 bytes to the heap at 0x11ee05c60.
-Copied 25 grades from 0x11ee06270 to 0x11ee05c60.
-Freed 200 bytes from the heap at 0x11ee06270.
-Stored 60.452600 in the heap at 0x11ee05d28.
-Stored 40.844300 in the heap at 0x11ee05d30.
-Stored 63.172400 in the heap at 0x11ee05d38.
-Stored 39.284500 in the heap at 0x11ee05d40.
-Stored 60.897900 in the heap at 0x11ee05d48.
-Stored 30 grades (240 bytes) to the heap at 0x11ee05c60.
-Heap at 0x11ee05c60 is full.
-Allocated 280 bytes to the heap at 0x11ee06340.
-Copied 30 grades from 0x11ee05c60 to 0x11ee06340.
-Freed 240 bytes from the heap at 0x11ee05c60.
-Stored 77.354200 in the heap at 0x11ee06430.
-Stored 67.703400 in the heap at 0x11ee06438.
-Stored 73.623000 in the heap at 0x11ee06440.
-Stored 74.743700 in the heap at 0x11ee06448.
-Stored 69.609100 in the heap at 0x11ee06450.
-Stored 35 grades (280 bytes) to the heap at 0x11ee06340.
-Heap at 0x11ee06340 is full.
-Allocated 320 bytes to the heap at 0x11ee061d0.
-Copied 35 grades from 0x11ee06340 to 0x11ee061d0.
-Freed 280 bytes from the heap at 0x11ee06340.
-Stored 43.685400 in the heap at 0x11ee062e8.
-Stored 39.480800 in the heap at 0x11ee062f0.
-Stored 5.270000 in the heap at 0x11ee062f8.
-Stored 23.972800 in the heap at 0x11ee06300.
-Stored 53.107000 in the heap at 0x11ee06308.
-Stored 40 grades (320 bytes) to the heap at 0x11ee061d0.
-Heap at 0x11ee061d0 is full.
-Allocated 360 bytes to the heap at 0x11ee06460.
-Copied 40 grades from 0x11ee061d0 to 0x11ee06460.
-Freed 320 bytes from the heap at 0x11ee061d0.
-Stored 8.850800 in the heap at 0x11ee065a0.
-Stored 75.819500 in the heap at 0x11ee065a8.
-Stored 40.427900 in the heap at 0x11ee065b0.
-Stored 96.081900 in the heap at 0x11ee065b8.
-Stored 49.652100 in the heap at 0x11ee065c0.
-Stored 45 grades (360 bytes) to the heap at 0x11ee06460.
-Heap at 0x11ee06460 is full.
-Allocated 400 bytes to the heap at 0x11ee061d0.
-Copied 45 grades from 0x11ee06460 to 0x11ee061d0.
-Freed 360 bytes from the heap at 0x11ee06460.
-Stored 11.106400 in the heap at 0x11ee06338.
-Stored 31.402000 in the heap at 0x11ee06340.
-Stored 67.508200 in the heap at 0x11ee06348.
-Stored 21.753400 in the heap at 0x11ee06350.
-Stored 91.395600 in the heap at 0x11ee06358.
-Stored 50 grades (400 bytes) to the heap at 0x11ee061d0.
-Heap at 0x11ee061d0 is full.
-Allocated 440 bytes to the heap at 0x11ee06360.
-Copied 50 grades from 0x11ee061d0 to 0x11ee06360.
-Freed 400 bytes from the heap at 0x11ee061d0.
-Stored 40.596200 in the heap at 0x11ee064f0.
-Stored 82.324800 in the heap at 0x11ee064f8.
-Stored 62.587000 in the heap at 0x11ee06500.
-Stored 40.904600 in the heap at 0x11ee06508.
-Stored 70.323700 in the heap at 0x11ee06510.
-Stored 55 grades (440 bytes) to the heap at 0x11ee06360.
-Heap at 0x11ee06360 is full.
-Allocated 480 bytes to the heap at 0x11ee065d0.
-Copied 55 grades from 0x11ee06360 to 0x11ee065d0.
-Freed 440 bytes from the heap at 0x11ee06360.
-Stored 55.314300 in the heap at 0x11ee06788.
-Stored 7.969800 in the heap at 0x11ee06790.
-Stored 46.333400 in the heap at 0x11ee06798.
-Stored 21.971600 in the heap at 0x11ee067a0.
-Stored 98.803000 in the heap at 0x11ee067a8.
-Stored 60 grades (480 bytes) to the heap at 0x11ee065d0.
-Heap at 0x11ee065d0 is full.
-Allocated 520 bytes to the heap at 0x11ee061d0.
-Copied 60 grades from 0x11ee065d0 to 0x11ee061d0.
-Freed 480 bytes from the heap at 0x11ee065d0.
-Stored 31.922800 in the heap at 0x11ee063b0.
-Stored 45.466900 in the heap at 0x11ee063b8.
-Stored 14.154100 in the heap at 0x11ee063c0.
-Stored 49.195400 in the heap at 0x11ee063c8.
-Stored 41.045400 in the heap at 0x11ee063d0.
-Stored 65 grades (520 bytes) to the heap at 0x11ee061d0.
-Heap at 0x11ee061d0 is full.
-Allocated 560 bytes to the heap at 0x11ee063e0.
-Copied 65 grades from 0x11ee061d0 to 0x11ee063e0.
-Freed 520 bytes from the heap at 0x11ee061d0.
-Stored 45.114900 in the heap at 0x11ee065e8.
-Stored 33.621300 in the heap at 0x11ee065f0.
-Stored 99.571500 in the heap at 0x11ee065f8.
-Stored 36.572400 in the heap at 0x11ee06600.
-Stored 16.934500 in the heap at 0x11ee06608.
-Stored 70 grades (560 bytes) to the heap at 0x11ee063e0.
-Heap at 0x11ee063e0 is full.
-Allocated 600 bytes to the heap at 0x11ee067b0.
-Copied 70 grades from 0x11ee063e0 to 0x11ee067b0.
-Freed 560 bytes from the heap at 0x11ee063e0.
-Stored 84.203000 in the heap at 0x11ee069e0.
-Stored 96.116700 in the heap at 0x11ee069e8.
-Stored 67.698700 in the heap at 0x11ee069f0.
-Stored 88.049000 in the heap at 0x11ee069f8.
-Stored 89.698600 in the heap at 0x11ee06a00.
-Stored 75 grades (600 bytes) to the heap at 0x11ee067b0.
-Heap at 0x11ee067b0 is full.
-Allocated 640 bytes to the heap at 0x11ee061d0.
-Copied 75 grades from 0x11ee067b0 to 0x11ee061d0.
-Freed 600 bytes from the heap at 0x11ee067b0.
-Stored 8.246200 in the heap at 0x11ee06428.
-Stored 1.494600 in the heap at 0x11ee06430.
-Stored 88.965700 in the heap at 0x11ee06438.
-Stored 92.136200 in the heap at 0x11ee06440.
-Stored 81.310400 in the heap at 0x11ee06448.
-Stored 80 grades (640 bytes) to the heap at 0x11ee061d0.
-Heap at 0x11ee061d0 is full.
-Allocated 680 bytes to the heap at 0x11ee06450.
-Copied 80 grades from 0x11ee061d0 to 0x11ee06450.
-Freed 640 bytes from the heap at 0x11ee061d0.
-Stored 78.268000 in the heap at 0x11ee066d0.
-Stored 93.869700 in the heap at 0x11ee066d8.
-Stored 57.062400 in the heap at 0x11ee066e0.
-Stored 68.406100 in the heap at 0x11ee066e8.
-Stored 56.523700 in the heap at 0x11ee066f0.
-Stored 85 grades (680 bytes) to the heap at 0x11ee06450.
-Heap at 0x11ee06450 is full.
-Allocated 720 bytes to the heap at 0x11ee06700.
-Copied 85 grades from 0x11ee06450 to 0x11ee06700.
-Freed 680 bytes from the heap at 0x11ee06450.
-Stored 46.508500 in the heap at 0x11ee069a8.
-Stored 53.955700 in the heap at 0x11ee069b0.
-Stored 63.073300 in the heap at 0x11ee069b8.
-Stored 23.525900 in the heap at 0x11ee069c0.
-Stored 64.370200 in the heap at 0x11ee069c8.
-Stored 90 grades (720 bytes) to the heap at 0x11ee06700.
-Heap at 0x11ee06700 is full.
-Allocated 760 bytes to the heap at 0x11ee061d0.
-Copied 90 grades from 0x11ee06700 to 0x11ee061d0.
-Freed 720 bytes from the heap at 0x11ee06700.
-Stored 27.542600 in the heap at 0x11ee064a0.
-Stored 66.827100 in the heap at 0x11ee064a8.
-Stored 27.725000 in the heap at 0x11ee064b0.
-Stored 5.079200 in the heap at 0x11ee064b8.
-Stored 72.782500 in the heap at 0x11ee064c0.
-Stored 95 grades (760 bytes) to the heap at 0x11ee061d0.
-Heap at 0x11ee061d0 is full.
-Allocated 800 bytes to the heap at 0x11ee064d0.
-Copied 95 grades from 0x11ee061d0 to 0x11ee064d0.
-Freed 760 bytes from the heap at 0x11ee061d0.
-Stored 46.405500 in the heap at 0x11ee067c8.
-Stored 21.149200 in the heap at 0x11ee067d0.
-Stored 90.758400 in the heap at 0x11ee067d8.
-Stored 34.443700 in the heap at 0x11ee067e0.
-Stored 73.924500 in the heap at 0x11ee067e8.
-Stored 100 grades (800 bytes) to the heap at 0x11ee064d0.
-Heap at 0x11ee064d0 is full.
-Allocated 840 bytes to the heap at 0x11ee06a10.
-Copied 100 grades from 0x11ee064d0 to 0x11ee06a10.
-Freed 800 bytes from the heap at 0x11ee064d0.
-Stored 79.194500 in the heap at 0x11ee06d30.
-Stored 3.167200 in the heap at 0x11ee06d38.
-Stored 56.274300 in the heap at 0x11ee06d40.
-Stored 65.125000 in the heap at 0x11ee06d48.
-Stored 40.944500 in the heap at 0x11ee06d50.
-Stored 105 grades (840 bytes) to the heap at 0x11ee06a10.
-Heap at 0x11ee06a10 is full.
-Allocated 880 bytes to the heap at 0x11ee061d0.
-Copied 105 grades from 0x11ee06a10 to 0x11ee061d0.
-Freed 840 bytes from the heap at 0x11ee06a10.
+Allocated 40 bytes to the heap at 0x156e05f80.
+Stored 35.041300 in the heap at 0x156e05f80.
+Stored 91.850000 in the heap at 0x156e05f88.
+Stored 4.069500 in the heap at 0x156e05f90.
+Stored 88.506400 in the heap at 0x156e05f98.
+Stored 65.950100 in the heap at 0x156e05fa0.
+Stored 5 grades (40 bytes) to the heap at 0x156e05f80.
+Heap at 0x156e05f80 is full.
+Allocated 80 bytes to the heap at 0x156e05c60.
+Copied 5 grades from 0x156e05f80 to 0x156e05c60.
+Freed 40 bytes from the heap at 0x156e05f80.
+Stored 37.000900 in the heap at 0x156e05c88.
+Stored 80.362100 in the heap at 0x156e05c90.
+Stored 67.268500 in the heap at 0x156e05c98.
+Stored 11.913700 in the heap at 0x156e05ca0.
+Stored 71.582000 in the heap at 0x156e05ca8.
+Stored 10 grades (80 bytes) to the heap at 0x156e05c60.
+Heap at 0x156e05c60 is full.
+Allocated 120 bytes to the heap at 0x156e05cb0.
+Copied 10 grades from 0x156e05c60 to 0x156e05cb0.
+Freed 80 bytes from the heap at 0x156e05c60.
+Stored 20.350300 in the heap at 0x156e05d00.
+Stored 1.649700 in the heap at 0x156e05d08.
+Stored 18.547600 in the heap at 0x156e05d10.
+Stored 93.248400 in the heap at 0x156e05d18.
+Stored 87.471100 in the heap at 0x156e05d20.
+Stored 15 grades (120 bytes) to the heap at 0x156e05cb0.
+Heap at 0x156e05cb0 is full.
+Allocated 160 bytes to the heap at 0x156e061d0.
+Copied 15 grades from 0x156e05cb0 to 0x156e061d0.
+Freed 120 bytes from the heap at 0x156e05cb0.
+Stored 3.170600 in the heap at 0x156e06248.
+Stored 89.174200 in the heap at 0x156e06250.
+Stored 96.957500 in the heap at 0x156e06258.
+Stored 15.601700 in the heap at 0x156e06260.
+Stored 63.192700 in the heap at 0x156e06268.
+Stored 20 grades (160 bytes) to the heap at 0x156e061d0.
+Heap at 0x156e061d0 is full.
+Allocated 200 bytes to the heap at 0x156e06270.
+Copied 20 grades from 0x156e061d0 to 0x156e06270.
+Freed 160 bytes from the heap at 0x156e061d0.
+Stored 11.343800 in the heap at 0x156e06310.
+Stored 88.117600 in the heap at 0x156e06318.
+Stored 89.984800 in the heap at 0x156e06320.
+Stored 7.447200 in the heap at 0x156e06328.
+Stored 9.117600 in the heap at 0x156e06330.
+Stored 25 grades (200 bytes) to the heap at 0x156e06270.
+Heap at 0x156e06270 is full.
+Allocated 240 bytes to the heap at 0x156e05c60.
+Copied 25 grades from 0x156e06270 to 0x156e05c60.
+Freed 200 bytes from the heap at 0x156e06270.
+Stored 60.452600 in the heap at 0x156e05d28.
+Stored 40.844300 in the heap at 0x156e05d30.
+Stored 63.172400 in the heap at 0x156e05d38.
+Stored 39.284500 in the heap at 0x156e05d40.
+Stored 60.897900 in the heap at 0x156e05d48.
+Stored 30 grades (240 bytes) to the heap at 0x156e05c60.
+Heap at 0x156e05c60 is full.
+Allocated 280 bytes to the heap at 0x156e06340.
+Copied 30 grades from 0x156e05c60 to 0x156e06340.
+Freed 240 bytes from the heap at 0x156e05c60.
+Stored 77.354200 in the heap at 0x156e06430.
+Stored 67.703400 in the heap at 0x156e06438.
+Stored 73.623000 in the heap at 0x156e06440.
+Stored 74.743700 in the heap at 0x156e06448.
+Stored 69.609100 in the heap at 0x156e06450.
+Stored 35 grades (280 bytes) to the heap at 0x156e06340.
+Heap at 0x156e06340 is full.
+Allocated 320 bytes to the heap at 0x156f04080.
+Copied 35 grades from 0x156e06340 to 0x156f04080.
+Freed 280 bytes from the heap at 0x156e06340.
+Stored 43.685400 in the heap at 0x156f04198.
+Stored 39.480800 in the heap at 0x156f041a0.
+Stored 5.270000 in the heap at 0x156f041a8.
+Stored 23.972800 in the heap at 0x156f041b0.
+Stored 53.107000 in the heap at 0x156f041b8.
+Stored 40 grades (320 bytes) to the heap at 0x156f04080.
+Heap at 0x156f04080 is full.
+Allocated 360 bytes to the heap at 0x156f041c0.
+Copied 40 grades from 0x156f04080 to 0x156f041c0.
+Freed 320 bytes from the heap at 0x156f04080.
+Stored 8.850800 in the heap at 0x156f04300.
+Stored 75.819500 in the heap at 0x156f04308.
+Stored 40.427900 in the heap at 0x156f04310.
+Stored 96.081900 in the heap at 0x156f04318.
+Stored 49.652100 in the heap at 0x156f04320.
+Stored 45 grades (360 bytes) to the heap at 0x156f041c0.
+Heap at 0x156f041c0 is full.
+Allocated 400 bytes to the heap at 0x156f04330.
+Copied 45 grades from 0x156f041c0 to 0x156f04330.
+Freed 360 bytes from the heap at 0x156f041c0.
+Stored 11.106400 in the heap at 0x156f04498.
+Stored 31.402000 in the heap at 0x156f044a0.
+Stored 67.508200 in the heap at 0x156f044a8.
+Stored 21.753400 in the heap at 0x156f044b0.
+Stored 91.395600 in the heap at 0x156f044b8.
+Stored 50 grades (400 bytes) to the heap at 0x156f04330.
+Heap at 0x156f04330 is full.
+Allocated 440 bytes to the heap at 0x156f04080.
+Copied 50 grades from 0x156f04330 to 0x156f04080.
+Freed 400 bytes from the heap at 0x156f04330.
+Stored 40.596200 in the heap at 0x156f04210.
+Stored 82.324800 in the heap at 0x156f04218.
+Stored 62.587000 in the heap at 0x156f04220.
+Stored 40.904600 in the heap at 0x156f04228.
+Stored 70.323700 in the heap at 0x156f04230.
+Stored 55 grades (440 bytes) to the heap at 0x156f04080.
+Heap at 0x156f04080 is full.
+Allocated 480 bytes to the heap at 0x156f04240.
+Copied 55 grades from 0x156f04080 to 0x156f04240.
+Freed 440 bytes from the heap at 0x156f04080.
+Stored 55.314300 in the heap at 0x156f043f8.
+Stored 7.969800 in the heap at 0x156f04400.
+Stored 46.333400 in the heap at 0x156f04408.
+Stored 21.971600 in the heap at 0x156f04410.
+Stored 98.803000 in the heap at 0x156f04418.
+Stored 60 grades (480 bytes) to the heap at 0x156f04240.
+Heap at 0x156f04240 is full.
+Allocated 520 bytes to the heap at 0x156f044c0.
+Copied 60 grades from 0x156f04240 to 0x156f044c0.
+Freed 480 bytes from the heap at 0x156f04240.
+Stored 31.922800 in the heap at 0x156f046a0.
+Stored 45.466900 in the heap at 0x156f046a8.
+Stored 14.154100 in the heap at 0x156f046b0.
+Stored 49.195400 in the heap at 0x156f046b8.
+Stored 41.045400 in the heap at 0x156f046c0.
+Stored 65 grades (520 bytes) to the heap at 0x156f044c0.
+Heap at 0x156f044c0 is full.
+Allocated 560 bytes to the heap at 0x156f04080.
+Copied 65 grades from 0x156f044c0 to 0x156f04080.
+Freed 520 bytes from the heap at 0x156f044c0.
+Stored 45.114900 in the heap at 0x156f04288.
+Stored 33.621300 in the heap at 0x156f04290.
+Stored 99.571500 in the heap at 0x156f04298.
+Stored 36.572400 in the heap at 0x156f042a0.
+Stored 16.934500 in the heap at 0x156f042a8.
+Stored 70 grades (560 bytes) to the heap at 0x156f04080.
+Heap at 0x156f04080 is full.
+Allocated 600 bytes to the heap at 0x156f042b0.
+Copied 70 grades from 0x156f04080 to 0x156f042b0.
+Freed 560 bytes from the heap at 0x156f04080.
+Stored 84.203000 in the heap at 0x156f044e0.
+Stored 96.116700 in the heap at 0x156f044e8.
+Stored 67.698700 in the heap at 0x156f044f0.
+Stored 88.049000 in the heap at 0x156f044f8.
+Stored 89.698600 in the heap at 0x156f04500.
+Stored 75 grades (600 bytes) to the heap at 0x156f042b0.
+Heap at 0x156f042b0 is full.
+Allocated 640 bytes to the heap at 0x156f046d0.
+Copied 75 grades from 0x156f042b0 to 0x156f046d0.
+Freed 600 bytes from the heap at 0x156f042b0.
+Stored 8.246200 in the heap at 0x156f04928.
+Stored 1.494600 in the heap at 0x156f04930.
+Stored 88.965700 in the heap at 0x156f04938.
+Stored 92.136200 in the heap at 0x156f04940.
+Stored 81.310400 in the heap at 0x156f04948.
+Stored 80 grades (640 bytes) to the heap at 0x156f046d0.
+Heap at 0x156f046d0 is full.
+Allocated 680 bytes to the heap at 0x156f04080.
+Copied 80 grades from 0x156f046d0 to 0x156f04080.
+Freed 640 bytes from the heap at 0x156f046d0.
+Stored 78.268000 in the heap at 0x156f04300.
+Stored 93.869700 in the heap at 0x156f04308.
+Stored 57.062400 in the heap at 0x156f04310.
+Stored 68.406100 in the heap at 0x156f04318.
+Stored 56.523700 in the heap at 0x156f04320.
+Stored 85 grades (680 bytes) to the heap at 0x156f04080.
+Heap at 0x156f04080 is full.
+Allocated 720 bytes to the heap at 0x156f04330.
+Copied 85 grades from 0x156f04080 to 0x156f04330.
+Freed 680 bytes from the heap at 0x156f04080.
+Stored 46.508500 in the heap at 0x156f045d8.
+Stored 53.955700 in the heap at 0x156f045e0.
+Stored 63.073300 in the heap at 0x156f045e8.
+Stored 23.525900 in the heap at 0x156f045f0.
+Stored 64.370200 in the heap at 0x156f045f8.
+Stored 90 grades (720 bytes) to the heap at 0x156f04330.
+Heap at 0x156f04330 is full.
+Allocated 760 bytes to the heap at 0x156f04600.
+Copied 90 grades from 0x156f04330 to 0x156f04600.
+Freed 720 bytes from the heap at 0x156f04330.
+Stored 27.542600 in the heap at 0x156f048d0.
+Stored 66.827100 in the heap at 0x156f048d8.
+Stored 27.725000 in the heap at 0x156f048e0.
+Stored 5.079200 in the heap at 0x156f048e8.
+Stored 72.782500 in the heap at 0x156f048f0.
+Stored 95 grades (760 bytes) to the heap at 0x156f04600.
+Heap at 0x156f04600 is full.
+Allocated 800 bytes to the heap at 0x156f04080.
+Copied 95 grades from 0x156f04600 to 0x156f04080.
+Freed 760 bytes from the heap at 0x156f04600.
+Stored 46.405500 in the heap at 0x156f04378.
+Stored 21.149200 in the heap at 0x156f04380.
+Stored 90.758400 in the heap at 0x156f04388.
+Stored 34.443700 in the heap at 0x156f04390.
+Stored 73.924500 in the heap at 0x156f04398.
+Stored 100 grades (800 bytes) to the heap at 0x156f04080.
+Heap at 0x156f04080 is full.
+Allocated 840 bytes to the heap at 0x156f043a0.
+Copied 100 grades from 0x156f04080 to 0x156f043a0.
+Freed 800 bytes from the heap at 0x156f04080.
+Stored 79.194500 in the heap at 0x156f046c0.
+Stored 3.167200 in the heap at 0x156f046c8.
+Stored 56.274300 in the heap at 0x156f046d0.
+Stored 65.125000 in the heap at 0x156f046d8.
+Stored 40.944500 in the heap at 0x156f046e0.
+Stored 105 grades (840 bytes) to the heap at 0x156f043a0.
+Heap at 0x156f043a0 is full.
+Allocated 880 bytes to the heap at 0x156f04950.
+Copied 105 grades from 0x156f043a0 to 0x156f04950.
+Freed 840 bytes from the heap at 0x156f043a0.
 The average of 105 grades is 52.301634.
 1. The grade of 35.041300 is < the average.
 2. The grade of 91.850000 is >= the average.
@@ -317,5 +317,5 @@ The average of 105 grades is 52.301634.
 103. The grade of 56.274300 is >= the average.
 104. The grade of 65.125000 is >= the average.
 105. The grade of 40.944500 is < the average.
-Freed 880 bytes from the heap at 0x11ee061d0.
+Freed 880 bytes from the heap at 0x156f04950.
 total heap usage: 22 allocs, 22 frees, 10120 bytes allocated

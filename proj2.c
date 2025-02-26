@@ -63,8 +63,11 @@ int main(void)
             printf("Allocated %zu bytes to the heap at %p.\n",
                    new_size, (void *)temp); // Show total new size (80 bytes)
 
-            // Copy data and print message
-            memcpy(temp, grades, count * sizeof(double));
+            // Copy data manually and print message
+            for (int i = 0; i < count; i++)
+            {
+                temp[i] = grades[i];
+            }
             printf("Copied %d grades from %p to %p.\n",
                    count, current_heap, (void *)temp);
 
